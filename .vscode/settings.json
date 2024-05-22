@@ -4,5 +4,6 @@
     "**/bower_components": true,
     "**/.sfdx": true
   },
-  "salesforcedx-vscode-apex.java.home": "C:\\Program Files\\Microsoft\\jdk-11.0.12.7-hotspot"
+  "salesforcedx-vscode-apex.java.home": "C:\\Program Files\\Microsoft\\jdk-11.0.12.7-hotspot",
+  "salesforcedx-vscode-core.show-cli-success-msg": false
 }
